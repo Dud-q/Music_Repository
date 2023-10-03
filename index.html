@@ -1,0 +1,147 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="CSS/style.css">    
+    </head>
+    <body onmouseup="allDeafults()">
+        <div id="music_list">
+            
+            <div id="testing2"></div>
+        </div>
+        <div id="add_div">
+            <input type="button" id="add_btn" value="+" onclick="addNewPlaylist()">
+            <input type="text" id="playlist_name" placeholder="Playlist Name">  
+            <input type="color" id="add_color1" value="#FF7417" class="color_input">
+        </div>
+    </body>
+    <nav>
+<!--
+
+    =-=-=-=-=-=-=-=-=-=-=-=-=
+      DELETE PLAYLIST POP UP
+    =-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+    <div class="popUp">
+        <div class="rand2">
+            Are you sure?
+        </div>
+        <div class="rand3">
+            <input type="button" class="popUpYES popUpButton" value="YES" onclick="yesPopUp()>
+            <input type="button" class="popUpNO popUpButton" value="NO" onclick="noPopUp()">
+        </div>
+    </div>
+
+-->
+<!--
+
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+      EDIT PLAYLIST NAME/COLOR
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+    <div class="edit_popUp">
+        <div class="random4">
+            <input type="text" class="newPlaylistName" placeholder="New Name" value=${element.parentNode.parentNode.parentNode.parentNode.children[0].children[0].children[0].innerHTML}>
+            <input type="color" class="color_input" value="${BGcolor}">
+        </div>
+        <div class="random5">
+            <input type="button" class="deny_playlist" value="X" onclick="noEditPopUp()">
+            <input type="button" class="apply_playlist" value="✓" onclick="yesEditPopUp(this)">
+        </div>
+    </div>
+
+-->
+<!--
+
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+      Audio Creation Element
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+            <div class="music_element">
+                <div class="spamer1"></div>
+                <div class="audio">
+                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)">
+                                
+                </div>
+                <div class="random6">
+                    <div class="audio_title">
+                        ${element.parentNode.children[2].value}
+                    </div>
+                    <a href="${element.nextElementSibling.value}" class="link">
+                        ${element.nextElementSibling.value}
+                    </a>
+                </div>
+                <div class="buttons_div">
+                    <div class="_1_buttons_div">
+                        <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)">X</div>
+                    </div>
+                    <div class="_2_buttons_div">
+                        <img src="arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                        <img src="arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                    </div>
+                </div>
+            </div>
+
+-->
+<!--
+
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+          Playlist Item
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+        <div class="playlist_element">
+            <div class="playlist_div">
+                <div class="playlist_header">
+                    <p class="playlist_name">${playlist_name.value}</p>
+                    <img src="arrowDown.png" class="hide" onclick="hidePlaylist(this)">
+                </div>
+                <div class="playlist_rest">
+                    <div class="add_div">
+                        <input type="button" class="add_btn" value="+" onclick="addAudio(this)">
+                        <input type="text" class="youtube_url" placeholder="YT URL">
+                        <input type="text" class="audio_newElement_name" placeholder="Music Name">
+                        <img src="edit.png" alt="EDIT" class="edit_playlist" onclick="playlistEditPopUp(this)">
+                        <div class="random7">
+                            <img src="arrowUp2.png" alt="arrowUp" class="playlistArrow playlistArrowUp" onclick="upPlaylistArrow(this)">
+                            <img src="arrowDown2.png" alt="arrowDown" class="playlistArrow playlistArrowDown" onclick="downPlaylistArrow(this)">
+                        </div>
+                        <div type="button" class="delete" onclick="deletePlaylistFunc(this)" onmousedown="deleteChange(this)">X</div>
+                    </div>
+                    
+                    <div class="music_elements">                    
+                        
+                        <div class="testing"></div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
+-->
+<!--
+
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+          Delete item
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+            <div class="delete_info">
+                    <div class="random8">
+                        Usunięto: 
+                    </div>
+                    <div class="random9">
+                        <div class="random10">
+                            ${element.parentNode.parentNode.parentNode.children[2].children[0].innerHTML.trim() + ":"}
+                        </div>
+                        <div class="random11">
+                            ${element.parentNode.parentNode.parentNode.children[2].children[1].innerHTML.trim()}
+                        </div>
+                    </div>
+                </div>
+-->
+    </nav>
+    <script src="JS/script.js"></script>
+</html>

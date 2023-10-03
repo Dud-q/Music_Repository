@@ -1,0 +1,404 @@
+
+            * {
+                font-family: sans-serif;
+            }
+            
+            body {
+                padding: 0;
+                margin: 0;
+                background-color: #555555;
+                height: 100vh;
+                width: 100vw;
+                cursor: url("images/GD_Cursor.png"), auto;
+                display: flex;
+                flex-direction: column;
+                overflow-x: hidden;
+            }
+            
+            #add_btn, .add_btn {
+                margin: 0;
+                padding: 0;
+                height: 100px;
+                width: 100px;
+                border: 5px solid black;
+                background-color: darkorange;
+                border-radius: 50%;
+                font-size: 500%;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 2vh;
+                margin-bottom: 2vh;
+                margin-right: 2vh;
+                cursor: pointer; 
+            }
+            .add_btn {
+                background-color: #33AA00
+            }
+            
+            #add_div, .add_div {
+                display: flex;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: space-around;
+            }
+            .add_div {
+                background-color: darkgreen;
+            }
+            
+            #music_list, .music_list {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                width: 100%;
+            }
+            
+            #playlist_name {
+                width: 70vw;
+                height: 80%;
+                font-size: 300%;
+            }
+            
+            .youtube_url {
+                width: 5vw;
+                height: 10vh;
+                text-align: center;
+                font-size: 125%;
+                border: solid black 2px;
+                
+            }
+            .audio_newElement_name {
+                width: 50vw;
+                height: 10vh;
+                font-size: 300%;
+                border: 2px solid black;
+            }
+            
+            .color_input {
+                margin-left: 2vw;
+                margin-top: 15px;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                appearance: none;
+                background-color: transparent;
+                width: 100px;
+                height: 100px;
+                border: none;
+                cursor: pointer;
+            }
+            .color_input::-webkit-color-swatch {
+                border-radius: 50%;
+                border: 7px solid #000000;
+            }
+            .color_input::-moz-color-swatch {
+                border-radius: 50%;
+                border: 7px solid #000000;
+            }
+            
+            .music_element {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                width: calc(100% - 10px);
+                height: 25vh;
+                margin-left: 10px;
+                border-bottom: solid black 2px;
+            }
+            .playlist_element {
+                width: 100vw;
+                background: linear-gradient(to bottom, green, darkgreen);
+            }
+            .playlist_header {
+                width: 100%;
+                background-color: #063000;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-bottom: 5px solid black;
+                color: white;
+            }
+            
+            .playlist_header:last-child {
+                border-top: 5px solid black;
+            }
+            
+            .playlist_name {
+                font-size: 300%;
+                margin-left: 10vw;
+            }
+            
+            .edit_playlist {
+                height: 10vh;
+                cursor: pointer;
+            }
+            
+            .hide {
+                margin: 0;
+                padding: 0;
+                width: 100px;
+                font-size: 500%;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 1vh;
+                margin-right: 4vh;
+                margin-bottom: 1vh;
+                cursor: pointer; 
+            }
+            
+            .spamer1 {
+                width: 15vw;
+            }
+            
+            .audio {
+                position: absolute;
+                left: 2vw;
+            }
+            
+            .link {
+                font-size: 125%;
+            }
+            
+            .buttons_div {
+                width: 15vw;
+                height: 100%;
+                display: flex;
+                margin-right: 2vw;
+            }
+            
+            ._1_buttons_div {
+                width: 50%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            ._2_buttons_div {
+                width: 50%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-around;
+                align-items: center;
+            }
+            
+            .delete {
+                background-color: red;
+                width: 5vw;
+                height: 5vw;
+                outline: 5px solid black;
+                font-size: 300%;
+                font-weight: 900;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                cursor: pointer;
+            }
+            
+            .arrow {
+                height: 30%;
+                width: auto;
+                cursor: pointer;
+            }
+            
+            .popUp {
+                position: fixed;
+                top: 20%;
+                right: 30%;
+                height: 40vh;
+                width: 40vw;
+                background-color: gray;
+                outline: 5px solid black;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .rand2 {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 50%;
+                font-size: 200%;
+                font-weight: 900;
+            }
+            .rand3 {
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                width: 100%;
+                height: 50%;
+            }
+            
+            .popUpButton {
+                height: 40%;
+                width: 25%;
+                cursor: pointer;
+                outline: 5px solid black;
+                font-weight: 900;
+                font-size: 150%;
+            }
+            
+            .popUpYES {
+                background-color: green;
+            }
+            .popUpNO {
+                background-color: darkred;
+            }
+            
+            .edit_popUp {
+                position: fixed;
+                top: 20%;
+                right: 20%;
+                height: 40vh;
+                width: 60vw;
+                background-color: gray;
+                outline: 5px solid black;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+            }
+            
+            .random4 {
+                display: flex;
+                width: 70%;
+                height: 75%;
+                justify-content: space-around;
+                align-items: center;
+                border-right: 2px solid black;
+            }
+            
+            .random5 {
+                display: flex;
+                width: 30%;
+                height: 75%;
+                justify-content: space-around;
+                align-items: center;
+            }
+            
+            .newPlaylistName {
+                width: 40%;
+                height: 15%;
+                font-size: 200%;
+            }
+            
+            .apply_playlist {
+                height: 10vh;
+                width: 10vh;
+                outline: 5px solid black;
+                background-color: #33AA00;
+                font-size: 300%;
+                font-weight: 900;
+                cursor: pointer;
+            }
+            
+            .deny_playlist{
+                height: 10vh;
+                width: 10vh;
+                outline: 5px solid black;
+                background-color: red;
+                font-size: 300%;
+                cursor: pointer;
+            }
+            
+            nav {
+                display: none;
+                height: 0;
+                width: 0;
+                margin: 0;
+                padding: 0;
+            }
+            
+            .random6 {
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                flex-direction: column;
+            }
+            
+            .audio_title {
+                font-size: 300%;
+                margin-bottom: 5%;
+            }
+            
+            .iframe_el {
+                display: none;
+            }
+            
+            .get_audio_iframe {
+                height: 15vh;
+                width: 15vw;
+                border: 5px solid black;
+                background-color: darkseagreen;
+                font-size: 250%;
+                cursor: pointer;
+            }
+            
+            .random7{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-around;
+                height: 100%;
+            }
+            
+            .playlistArrow {
+                height: 5vh;
+                margin: 1vh;
+                cursor: pointer;
+            }
+            
+            #testing, #testing2 {
+                display: none;
+            }
+            
+            .delete_info {
+                position: absolute;
+                top: 5%;
+                left: 25%;
+                width: 50%;
+                height: 20%;
+                border: 2px solid black;
+                background-color: #555555;
+                font-size: 200%;
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .random8 {
+                height: 35%;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .random9 {
+                height: 65%;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                font-size: 100%;
+            }
+            
+            .random10 {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 120%;
+            }
+            
+            .random11 {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+        
