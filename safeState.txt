@@ -20,6 +20,7 @@
         
 
         
+        
 
         
 
@@ -274,12 +275,15 @@
                             <img src="images/arrowDown2.png" alt="arrowDown" class="playlistArrow playlistArrowDown" onclick="downPlaylistArrow(this)">
                         </div>
                         <div type="button" class="delete" onclick="deletePlaylistFunc(this)" onmousedown="deleteChange(this)" style="background-color: red;">X</div>
-                    </div>
+                    
+                </div>
                     
                     <div class="music_elements" style="background-color: rgb(0, 174, 255);"><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -359,6 +363,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -1026,6 +1032,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -1265,6 +1273,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -1292,6 +1302,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -1316,6 +1328,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -1560,6 +1574,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -1584,6 +1600,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -1610,6 +1628,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -1634,6 +1654,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -1785,6 +1807,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -1809,6 +1833,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -1864,6 +1890,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -1916,6 +1944,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -1940,6 +1972,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                 
@@ -1993,6 +2029,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -2019,6 +2057,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                 
@@ -2074,6 +2116,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -2100,6 +2144,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -2128,6 +2174,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -2153,6 +2201,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -2177,6 +2227,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -2227,6 +2279,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -2291,6 +2345,14 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -2315,6 +2377,12 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -2341,6 +2409,12 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -2364,7 +2438,37 @@
                             </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/Ft5P980vaMU" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -2393,7 +2497,11 @@
                             </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/acISEgPgzhU" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
                 
                         
                 
@@ -2451,6 +2559,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -2477,6 +2587,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -2515,7 +2627,11 @@
                             </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/y6120QOlsfU" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
                 
                         
                 
@@ -2593,7 +2709,13 @@
                             </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/iC2-etZC190" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                
+            
                 
                         
                 
@@ -2628,7 +2750,13 @@
                             </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/5qajT8lS2ok" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                
+            
                 
                         
                 
@@ -2694,9 +2822,35 @@
                                     </div>
                                 </div>
                             </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            DM DOKURO - Unholy Insurgency
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=6Q57JfIz2Mg" class="link">
+                            https://www.youtube.com/watch?v=6Q57JfIz2Mg
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -2738,6 +2892,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -2807,6 +2963,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -2864,7 +3022,17 @@
                     <div class="music_elements" style="background-color: rgb(193, 255, 74);"><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/TpKE4mKFSZY" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -2889,7 +3057,17 @@
                             </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/6uCaEDM-Kf8" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -2916,6 +3094,12 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -2940,6 +3124,14 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -2968,6 +3160,14 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -2995,6 +3195,12 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -3020,7 +3226,15 @@
                             </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/drT1uOViuz4" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -3050,6 +3264,12 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -3081,6 +3301,12 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -3145,6 +3371,18 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -3170,6 +3408,22 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -3194,6 +3448,14 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -3226,6 +3488,12 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -3257,6 +3525,14 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -3287,6 +3563,14 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -3320,6 +3604,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -3356,6 +3642,16 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -3391,6 +3687,12 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -3424,40 +3726,11 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
-                        
+            
                 
-                        
+            
                 
-                        
-                
-                        
-                
-                        
-                
-                        
-                                
-                                </div>
-                                <div class="random6">
-                                    <div class="audio_title" style="color: rgb(255, 255, 255);">
-                                        meganeko - Milkshake
-                                    </div>
-                                    <a href="https://www.youtube.com/watch?v=QsgJNYzlA9U" class="link">
-                                        https://www.youtube.com/watch?v=QsgJNYzlA9U
-                                    </a>
-                                </div>
-                                <div class="buttons_div">
-                                    <div class="_1_buttons_div">
-                                        <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
-                                    </div>
-                                    <div class="_2_buttons_div">
-                                        <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
-                                        <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
-                                    </div>
-                                </div>
-                            </div><div class="music_element">
-                                <div class="spamer1"></div>
-                                <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+            
                 
                         
                 
@@ -3492,6 +3765,14 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -3524,6 +3805,12 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -3584,9 +3871,35 @@
                     </div>
                     
                     <div class="music_elements" style="background-color: rgb(246, 246, 246);"><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(0, 0, 0);">
+                            Flood Escape 2 OST - Lobby
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=x3WHmi5PLZ8" class="link">
+                            https://www.youtube.com/watch?v=x3WHmi5PLZ8
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -3620,6 +3933,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -3658,6 +3973,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -3695,6 +4012,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -3719,6 +4038,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -3755,6 +4076,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -3787,6 +4110,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -3822,6 +4147,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -3872,6 +4199,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -3896,6 +4227,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -3922,6 +4257,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -3946,6 +4285,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -3972,6 +4315,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -3996,6 +4343,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -4031,6 +4380,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -4076,7 +4427,7 @@
         <div class="playlist_element">
             <div class="playlist_div">
                 <div class="playlist_header" style="background-color: rgb(15, 163, 153); color: white;">
-                    <p class="playlist_name">Electronic</p>
+                    <p class="playlist_name">Arcade Electronic</p>
                     <img src="images/arrowUp.png" class="hide" onclick="hidePlaylist(this)">
                 </div>
                 <div class="playlist_rest" style="display: none;">
@@ -4093,15 +4444,147 @@
                     </div>
                     
                     <div class="music_elements" style="background-color: rgb(22, 235, 221);"><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/x_ClJoIyODs" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            DJVI - Angels
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=x_ClJoIyODs" class="link">
+                            https://www.youtube.com/watch?v=x_ClJoIyODs
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            DJVI - Back On Track
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=N9vDTYZpqXM" class="link">
+                            https://www.youtube.com/watch?v=N9vDTYZpqXM
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            DJVI - Base After Base
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=TZULkgQPHt0" class="link">
+                            https://www.youtube.com/watch?v=TZULkgQPHt0
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/XoLouT7TqZY" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            MDK - Press Start
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=XoLouT7TqZY" class="link">
+                            https://www.youtube.com/watch?v=XoLouT7TqZY
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: white;">
+                            MDK - Fingerbang
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=BuPmq7yjDnI" class="link">
+                            https://www.youtube.com/watch?v=BuPmq7yjDnI
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
                                 </div>
                                 <div class="random6">
-                                    <div class="audio_title" style="color: rgb(255, 255, 255);">
+                                    <div class="audio_title" style="color: white;">
                                         EnV - Bonus Level
                                     </div>
                                     <a href="https://www.youtube.com/watch?v=KUgGbNKghhA" class="link">
@@ -4122,11 +4605,19 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
                                 <div class="random6">
-                                    <div class="audio_title" style="color: rgb(255, 255, 255);">
+                                    <div class="audio_title" style="color: white;">
                                         ColBreakz - Arcade
                                     </div>
                                     <a href="https://www.youtube.com/watch?v=qCawY3c9QeU" class="link">
@@ -4146,6 +4637,14 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -4172,6 +4671,14 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -4196,6 +4703,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -4222,6 +4733,14 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -4246,6 +4765,14 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -4272,6 +4799,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -4296,6 +4827,12 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
                 
                         
                 
@@ -4355,6 +4892,157 @@
         
 
         <div class="playlist_element">
+                    <div class="playlist_div">
+                        <div class="playlist_header" style="background-color: rgb(14, 137, 139); color: white;">
+                            <p class="playlist_name">Strong Electronic</p>
+                            <img src="images/arrowUp.png" class="hide" onclick="hidePlaylist(this)">
+                        </div>
+                        <div class="playlist_rest" style="display: none;">
+                            <div class="add_div" style="background-color: rgb(17, 164, 167);">
+                                <input type="button" class="add_btn" value="+" onclick="addAudio(this)">
+                                <input type="text" class="youtube_url" placeholder="YT URL">
+                                <input type="text" class="audio_newElement_name" placeholder="Music Name">
+                                <img src="images/edit.png" alt="EDIT" class="edit_playlist" onclick="playlistEditPopUp(this)">
+                                <div class="random7">
+                                    <img src="images/arrowUp2.png" alt="arrowUp" class="playlistArrow playlistArrowUp" onclick="upPlaylistArrow(this)">
+                                    <img src="images/arrowDown2.png" alt="arrowDown" class="playlistArrow playlistArrowDown" onclick="downPlaylistArrow(this)">
+                                </div>
+                                <div type="button" class="delete" onclick="deletePlaylistFunc(this)" onmousedown="deleteChange(this)" style="background-color: red;">X</div>
+                            </div>
+                            <div class="music_elements" style="background-color: rgb(20, 197, 200);"><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/vj8ZW0jr83I" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Clubstep
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=vj8ZW0jr83I" class="link">
+                            https://www.youtube.com/watch?v=vj8ZW0jr83I
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/fLnF-QnR1Zw" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            DJVI - Can't Let Go
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=fLnF-QnR1Zw" class="link">
+                            https://www.youtube.com/watch?v=fLnF-QnR1Zw
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/CYjmE-mtB6g" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            EnV - Heaven Rd. 2
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=CYjmE-mtB6g" class="link">
+                            https://www.youtube.com/watch?v=CYjmE-mtB6g
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: none;">
+                <iframe src="https://www.youtube.com/embed/mvABMFCu0aA" allowfullscreen="" frameborder="0" class="iframe_el" style="display: flex;"></iframe>
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Rainbow Factory
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=mvABMFCu0aA" class="link">
+                            https://www.youtube.com/watch?v=mvABMFCu0aA
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Tmm34 - Ultimate Destruction
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=r5sfEqEsdcs" class="link">
+                            https://www.youtube.com/watch?v=r5sfEqEsdcs
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div>
+                                <div class="testing"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="playlist_element">
             <div class="playlist_div">
                 <div class="playlist_header" style="background-color: rgb(0, 77, 1); color: white;">
                     <p class="playlist_name">Dimrain47</p>
@@ -4484,6 +5172,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -4508,6 +5198,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -4558,6 +5250,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -4736,6 +5430,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -4790,6 +5486,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -4818,6 +5516,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -4982,6 +5682,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -5154,6 +5856,12 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5178,6 +5886,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -5204,6 +5916,18 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5228,6 +5952,26 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -5279,9 +6023,345 @@
                         <div type="button" class="delete" onclick="deletePlaylistFunc(this)" onmousedown="deleteChange(this)" style="background-color: red;">X</div>
                     </div>
                     
-                    <div class="music_elements" style="background-color: rgb(115, 1, 167);">                    
+                    <div class="music_elements" style="background-color: rgb(115, 1, 167);"><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Bring Me Back
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=ZZlac_XASik" class="link">
+                            https://www.youtube.com/watch?v=ZZlac_XASik
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Invincibility Star
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=BISjiglqf0s" class="link">
+                            https://www.youtube.com/watch?v=BISjiglqf0s
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Star Gate
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=udMRb2W3pCs" class="link">
+                            https://www.youtube.com/watch?v=udMRb2W3pCs
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Mr Coffee
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=j0TCBViVrds" class="link">
+                            https://www.youtube.com/watch?v=j0TCBViVrds
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            System Split
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=j2xT84scEtY" class="link">
+                            https://www.youtube.com/watch?v=j2xT84scEtY
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Adventure Fantasy
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=cjfNlLhlPIU" class="link">
+                            https://www.youtube.com/watch?v=cjfNlLhlPIU
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Im So Classy
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=KcqvD4FWKTI" class="link">
+                            https://www.youtube.com/watch?v=KcqvD4FWKTI
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Deadlocked
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=OPBECnDBiRQ" class="link">
+                            https://www.youtube.com/watch?v=OPBECnDBiRQ
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Viking Arena
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=RaJ6Vf2w9hY" class="link">
+                            https://www.youtube.com/watch?v=RaJ6Vf2w9hY
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Airborne Robots
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=guBpnPY32s0" class="link">
+                            https://www.youtube.com/watch?v=guBpnPY32s0
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Monster Dance Off
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=B8YkwDbGBr8" class="link">
+                            https://www.youtube.com/watch?v=B8YkwDbGBr8
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Ludicrous Speed
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=cLNjP1vkyYU" class="link">
+                            https://www.youtube.com/watch?v=cLNjP1vkyYU
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div>                    
                         
-                        <div class="testing"></div>
+                        <div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Dance of The Violins 
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=JISrUAqMiiw" class="link">
+                            https://www.youtube.com/watch?v=JISrUAqMiiw
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="testing"></div>
                     </div>
                 </div>
                 
@@ -5312,9 +6392,87 @@
                     </div>
                     
                     <div class="music_elements" style="background-color: rgb(255, 72, 52);"><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Aftermath
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=vk5lYAkUTRw" class="link">
+                            https://www.youtube.com/watch?v=vk5lYAkUTRw
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Absent
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=D2M2O6SBD00" class="link">
+                            https://www.youtube.com/watch?v=D2M2O6SBD00
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Grind District
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=RlMGR9eniRo" class="link">
+                            https://www.youtube.com/watch?v=RlMGR9eniRo
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -5341,6 +6499,14 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5365,6 +6531,14 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -5391,6 +6565,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5416,6 +6594,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -5437,34 +6617,45 @@
                                     </div>
                                 </div>
                             </div><div class="music_element">
+                    <div class="spamer1"></div>
+                    <div class="audio">
+                        <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
+                    </div>
+                    <div class="random6">
+                        <div class="audio_title" style="color: rgb(255, 255, 255);">
+                            Stalker
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=tYGWAH8p5a4" class="link">
+                            https://www.youtube.com/watch?v=tYGWAH8p5a4
+                        </a>
+                    </div>
+                    <div class="buttons_div">
+                        <div class="_1_buttons_div">
+                            <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
+                        </div>
+                        <div class="_2_buttons_div">
+                            <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
+                            <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
+                        </div>
+                    </div>
+                </div><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
-                        
-                                
-                                </div>
-                                <div class="random6">
-                                    <div class="audio_title" style="color: rgb(255, 255, 255);">
-                                        Stalker
-                                    </div>
-                                    <a href="https://www.youtube.com/watch?v=tYGWAH8p5a" class="link">
-                                        https://www.youtube.com/watch?v=tYGWAH8p5a
-                                    </a>
-                                </div>
-                                <div class="buttons_div">
-                                    <div class="_1_buttons_div">
-                                        <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)" style="background-color: red;">X</div>
-                                    </div>
-                                    <div class="_2_buttons_div">
-                                        <img src="images/arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
-                                        <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
-                                    </div>
-                                </div>
-                            </div><div class="music_element">
-                                <div class="spamer1"></div>
-                                <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -5491,6 +6682,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -5515,6 +6708,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -5541,6 +6736,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -5565,6 +6762,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -5591,6 +6792,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -5615,6 +6818,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -5641,6 +6848,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5665,6 +6876,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -5691,6 +6904,12 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5715,6 +6934,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -5766,6 +6989,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5790,6 +7017,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -5816,6 +7045,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5840,6 +7073,12 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -5866,6 +7105,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -5890,6 +7131,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -5916,6 +7159,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                                 
                                 </div>
@@ -5940,6 +7185,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -5966,6 +7213,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -5990,6 +7241,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -6016,6 +7269,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -6040,6 +7297,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                                 
@@ -6066,6 +7325,10 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
                         
                                 
                                 </div>
@@ -6090,6 +7353,10 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
                 
                         
                                 
@@ -6116,6 +7383,20 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
                         
                 
                         
@@ -6138,10 +7419,26 @@
                                         <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
                                     </div>
                                 </div>
-                            </div><div class="music_element">
+                            </div>                    
+                        
+                        <div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
                 
                         
                                 
@@ -6163,9 +7460,7 @@
                                         <img src="images/arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
                                     </div>
                                 </div>
-                            </div>                    
-                        
-                        <div class="testing"></div>
+                            </div><div class="testing"></div>
                     </div>
                 </div>
                 
@@ -6187,12 +7482,16 @@
                             <img src="images/arrowDown2.png" alt="arrowDown" class="playlistArrow playlistArrowDown" onclick="downPlaylistArrow(this)">
                         </div>
                         <div type="button" class="delete" onclick="deletePlaylistFunc(this)" onmousedown="deleteChange(this)" style="background-color: red;">X</div>
-                    </div>
+                    
+                
+                </div>
                     
                     <div class="music_elements" style="background-color: rgb(255, 181, 0);"><div class="music_element">
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6231,6 +7530,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6264,6 +7565,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6295,6 +7598,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6324,6 +7629,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6350,6 +7657,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6380,6 +7689,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6406,6 +7717,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6434,6 +7747,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6460,6 +7775,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6488,6 +7805,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6514,6 +7833,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6542,6 +7863,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6568,6 +7891,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6598,6 +7923,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6625,6 +7952,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6651,6 +7980,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6681,6 +8012,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6709,6 +8042,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6739,6 +8074,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6768,6 +8105,8 @@
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
                 
+            
+                
                         
                 
                         
@@ -6796,6 +8135,8 @@
                                 <div class="spamer1"></div>
                                 <div class="audio">
                                     <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)" style="display: block;">
+                
+            
                 
                         
                 
@@ -6865,805 +8206,339 @@
         </div>
     
     <nav>
-<!--
-
-    =-=-=-=-=-=-=-=-=-=-=-=-=
-      DELETE PLAYLIST POP UP
-    =-=-=-=-=-=-=-=-=-=-=-=-=
-
-
-    <div class="popUp">
-        <div class="rand2">
-            Are you sure?
-        </div>
-        <div class="rand3">
-            <input type="button" class="popUpYES popUpButton" value="YES" onclick="yesPopUp()>
-            <input type="button" class="popUpNO popUpButton" value="NO" onclick="noPopUp()">
-        </div>
-    </div>
-
--->
-<!--
-
-    =-=-=-=-=-=-=-=-=-=-=-=-=-=
-      EDIT PLAYLIST NAME/COLOR
-    =-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-
-    <div class="edit_popUp">
-        <div class="random4">
-            <input type="text" class="newPlaylistName" placeholder="New Name" value=${element.parentNode.parentNode.parentNode.parentNode.children[0].children[0].children[0].innerHTML}>
-            <input type="color" class="color_input" value="${BGcolor}">
-        </div>
-        <div class="random5">
-            <input type="button" class="deny_playlist" value="X" onclick="noEditPopUp()">
-            <input type="button" class="apply_playlist" value="✓" onclick="yesEditPopUp(this)">
-        </div>
-    </div>
-
--->
-<!--
-
-    =-=-=-=-=-=-=-=-=-=-=-=-=-=
-      Audio Creation Element
-    =-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-            <div class="music_element">
-                <div class="spamer1"></div>
-                <div class="audio">
-                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)">
+    </nav>                            
                                 
-                </div>
-                <div class="random6">
-                    <div class="audio_title">
-                        ${element.parentNode.children[2].value}
-                    </div>
-                    <a href="${element.nextElementSibling.value}" class="link">
-                        ${element.nextElementSibling.value}
-                    </a>
-                </div>
-                <div class="buttons_div">
-                    <div class="_1_buttons_div">
-                        <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)">X</div>
-                    </div>
-                    <div class="_2_buttons_div">
-                        <img src="arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
-                        <img src="arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
-                    </div>
-                </div>
-            </div>
-
--->
-<!--
-
-    =-=-=-=-=-=-=-=-=-=-=-=-=-=
-          Playlist Item
-    =-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-
-        <div class="playlist_element">
-            <div class="playlist_div">
-                <div class="playlist_header">
-                    <p class="playlist_name">${playlist_name.value}</p>
-                    <img src="arrowDown.png" class="hide" onclick="hidePlaylist(this)">
-                </div>
-                <div class="playlist_rest">
-                    <div class="add_div">
-                        <input type="button" class="add_btn" value="+" onclick="addAudio(this)">
-                        <input type="text" class="youtube_url" placeholder="YT URL">
-                        <input type="text" class="audio_newElement_name" placeholder="Music Name">
-                        <img src="edit.png" alt="EDIT" class="edit_playlist" onclick="playlistEditPopUp(this)">
-                        <div class="random7">
-                            <img src="arrowUp2.png" alt="arrowUp" class="playlistArrow playlistArrowUp" onclick="upPlaylistArrow(this)">
-                            <img src="arrowDown2.png" alt="arrowDown" class="playlistArrow playlistArrowDown" onclick="downPlaylistArrow(this)">
-                        </div>
-                        <div type="button" class="delete" onclick="deletePlaylistFunc(this)" onmousedown="deleteChange(this)">X</div>
-                    </div>
-                    
-                    <div class="music_elements">                    
-                        
-                        <div class="testing"></div>
-                    </div>
-                </div>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                 
-            </div>
-        </div>
-
--->
-    </nav>
-    <script>
-    
-        function hideIframes() {
-            let audioElements = document.querySelectorAll('.audio');
-            for (let i = 0; i < audioElements.length; i++) {
-                audioElements[i].children[0].style.display = "block";
-                try{
-                    audioElements[i].querySelector('iframe').remove();
-                }
-                catch{}
-            }
-        }
-        
-        window.addEventListener('beforeunload', function(){
-          localStorage.setItem('Music_storage', document.body.innerHTML);
-        });
-        window.addEventListener('load', function(){
-            if (localStorage.getItem('Music_storage')) {
-                //document.body.innerHTML = localStorage.getItem('Music_storage');
-                hideIframes();
-            }
-        });
-        
-        function allDeafults(){
-            for(let i = 0; i < document.getElementsByClassName("delete").length; i++){
-                document.getElementsByClassName("delete")[i].style.backgroundColor = "red";
-            }
-        }
-         
-         
-        function getPreviousSibling(element){
-          let parent = element.parentNode;
-          let children = parent.childNodes;
-          let index = Array.prototype.indexOf.call(children, element);
-
-        if (index > 0) {
             
-            return children[index - 1];
-        }
-
-        return null;
-            
-        }
-        function getYoutubeVideoId(url){
-          
-            var youtubePattern = /(?:youtube(?:-nocookie)?\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/i;
-            var match = url.match(youtubePattern);
-
-            if (match && match[1]) {
-                return match[1];
-            }
-            
-            else{
-                return '';}
-        }
-        function returnHexColor(hexCode) {
-
-            hexCode = hexCode.replace('#', '');
-
-
-            let r = parseInt(hexCode.substring(0, 2), 16);
-            let g = parseInt(hexCode.substring(2, 4), 16);
-            let b = parseInt(hexCode.substring(4, 6), 16);
-
-
-            let brightness = (r * 299 + g * 587 + b * 114) / 1000;
-
-
-            if (brightness >= 128) {
-                return true;
-            } else {
-                return false;
-            }
-        }
-        function colorLighter(hexCode) {
-            let hex = hexCode.replace('#', '');
-
-            let r = parseInt(hex.substring(0, 2), 16);
-            let g = parseInt(hex.substring(2, 4), 16);
-            let b = parseInt(hex.substring(4, 6), 16);
-
-            let pojasnionyR = Math.min(Math.round(r * 1.2), 255);
-            let pojasnionyG = Math.min(Math.round(g * 1.2), 255);
-            let pojasnionyB = Math.min(Math.round(b * 1.2), 255);
-
-            let pojasnionyHex = `#${pojasnionyR.toString(16).padStart(2, '0')}${pojasnionyG.toString(16).padStart(2, '0')}${pojasnionyB.toString(16).padStart(2, '0')}`;
-
-            return pojasnionyHex;
-        }
-        function rgbToHex(rgb) {
-          // Pobieranie wartości R, G i B
-          const values = rgb.match(/\d+/g);
-          const r = parseInt(values[0]);
-          const g = parseInt(values[1]);
-          const b = parseInt(values[2]);
-
-          // Konwersja wartości R, G i B na kod HEX
-          const hex = '#' + ((r << 16) | (g << 8) | b).toString(16).padStart(6, '0');
-
-          return hex;
-        }
-         
-         
-        function upArrowFunc(that){
-                let element = that.parentNode.parentNode.parentNode;
-            
-                if(element != document.querySelectorAll('.music_element')[0]){
-                    element.parentNode.insertBefore(element, getPreviousSibling(element));
-                }
-            }
-        function downArrowFunc(that){
-                let element = that.parentNode.parentNode.parentNode;
                 
-                if(element.nextElementSibling.nextElementSibling != null && element.nextElementSibling != null){
-                    element.parentNode.insertBefore(element, element.nextElementSibling.nextElementSibling);
-                }
-            }
-        
-        function deleteFunc(element){ 
-            element.parentNode.parentNode.parentNode.remove();
-        }
-        
-        function deletePlaylistFunc(element){
-            let popUp = `
-                <div class="popUp">
-                    <div class="rand2">
-                        Are you sure?
-                    </div>
-                    <div class="rand3">
-                        <input type="button" class="popUpYES popUpButton" value="YES" onclick="yesPopUp()">
-                        <input type="button" class="popUpNO popUpButton" value="NO" onclick="noPopUp(this)">
-                    </div>
-                </div>`;
             
-            
-            if(document.querySelector('.popUp')){
-                document.querySelector('.popUp').remove();
-            }
-            element.parentNode.insertAdjacentHTML('beforeend', popUp);
-            
-            element.parentNode.parentNode.parentNode.parentNode.classList.add("removeElement");
-            
-        }
-         
-        function hidePlaylist(element){
-            if(element.parentNode.nextElementSibling.style.display != "none"){
-                element.parentNode.nextElementSibling.style.display = "none";  
-                element.src = "arrowUp.png";
-            }
-            else{
-                element.parentNode.nextElementSibling.style.display = "block";  
-                element.src = "arrowDown.png";
-            }
-        }
-        
-        function deleteChange(button){
-            button.style.backgroundColor = "darkred";
-        }
-        
-        function createAudioIframe(element){
-            
-            let Audio = `
-                <iframe src="https://www.youtube.com/embed/${getYoutubeVideoId(element.parentNode.nextElementSibling.children[1].innerHTML)}" allowfullscreen frameborder="0" class="iframe_el"></iframe>
-                        `;
-            element.insertAdjacentHTML('afterend', Audio);
-            
-            element.style.display = "none";
-            element.parentNode.children[1].style.display = "flex";
-        }      
-        function addAudio(element) {
-        if (element.parentNode.children[2].value.trim() != "" && element.nextElementSibling.value != "") {
-            actionElement = element;
-
-            let newAudio = `<div class="music_element">
-                                <div class="spamer1"></div>
-                                <div class="audio">
-                                    <input type="button" value="Load" class="get_audio_iframe" onclick="createAudioIframe(this)">
-                                
-                                </div>
-                                <div class="random6">
-                                    <div class="audio_title">
-                                        ${element.parentNode.children[2].value}
-                                    </div>
-                                    <a href="${element.nextElementSibling.value}" class="link">
-                                        ${element.nextElementSibling.value}
-                                    </a>
-                                </div>
-                                <div class="buttons_div">
-                                    <div class="_1_buttons_div">
-                                        <div type="button" class="delete" onmousedown="deleteChange(this)" onclick="deleteFunc(this)">X</div>
-                                    </div>
-                                    <div class="_2_buttons_div">
-                                        <img src="arrowUp2.png" class="upArrow arrow" onclick="upArrowFunc(this)">
-                                        <img src="arrowDown2.png" class="downArrow arrow" onclick="downArrowFunc(this)">
-                                    </div>
-                                </div>
-                            </div>`;
-
-            element.parentNode.nextElementSibling.insertAdjacentHTML('afterbegin', newAudio);
-
-            element.nextElementSibling.value = "";
-              
-            let RGB =  window.getComputedStyle(element.parentNode.parentNode.parentNode.children[0].children[0]).color;
-            RGB = rgbToHex(RGB)
-            
-            element.parentNode.parentNode.children[1].children[0].children[2].children[0].style.color = RGB;
-            element.parentNode.children[2].value = "";
-            createAudioIframe(element.parentNode.parentNode.children[1].children[0].children[1].children[0])
-        }
-        else if(element.parentNode.children[2].value.trim() == "" && element.nextElementSibling.value == ""){
-            element.parentNode.children[2].style.border = "red solid 2px";
-            element.nextElementSibling.style.border = "red solid 2px";
-            setTimeout(function(){
-                element.parentNode.children[2].style.border = "black solid 1px";
-            element.nextElementSibling.style.border = "black solid 1px";
-            },1500)
-        }
-        
-        }
-        
-        function yesPopUp(){
-            document.querySelector('.popUp').remove();
-            document.querySelector(".removeElement").remove();
-     
-        }
-        function noPopUp(element){  
-            document.querySelector('.popUp').remove();
-            document.querySelector(".removeElement").classList.remove("removeElement")
-        }
-        
-        function playlistEditPopUp(element) {
-          let BGcolor = window.getComputedStyle(element.parentNode.parentNode.parentNode.parentNode.children[0].children[0]).backgroundColor;
-          BGcolor = rgbToHex(BGcolor);
-
-          let test = element.parentNode.parentNode.parentNode.parentNode.children[0].children[0].children[0].innerHTML;
-
-          let popUp = `<div class="edit_popUp">
-                          <div class="random4">
-                              <input type="text" class="newPlaylistName" placeholder="New Name" value="${test}">
-                              <input type="color" class="color_input" value="${BGcolor}">
-                          </div>
-                          <div class="random5">
-                              <input type="button" class="deny_playlist" value="X" onclick="noEditPopUp()">
-                              <input type="button" class="apply_playlist" value="✓" onclick="yesEditPopUp(this)">
-                          </div>
-                      </div>`;
-
-          if (document.querySelector('.edit_popUp')) {
-            document.querySelector('.edit_popUp').remove();
-          }
-
-          element.parentNode.insertAdjacentHTML('beforeend', popUp);
-        }
-        
-        function noEditPopUp(){
-            document.querySelector('.edit_popUp').remove();
-        }
-         
-        function yesEditPopUp(element){
-            
-            let colorInput = element.parentNode.parentNode.children[0].children[1];
-            
-            element.parentNode.parentNode.parentNode.parentNode.parentNode.children[0].style.backgroundColor = colorInput.value;
-            if(element.parentNode.parentNode.children[0].children[0].value.trim() != ""){
-                element.parentNode.parentNode.parentNode.parentNode.parentNode.children[0].children[0].innerHTML = element.parentNode.parentNode.children[0].children[0].value;
-            }
-            
-            if(returnHexColor(colorInput.value)){
-                element.parentNode.parentNode.parentNode.parentNode.parentNode.children[0].style.color = "black";
-            }
-            else{
-                element.parentNode.parentNode.parentNode.parentNode.parentNode.children[0].style.color = "white";
-            }
-            element.parentNode.parentNode.parentNode.parentNode.children[0].style.backgroundColor = colorLighter(colorInput.value);
-            element.parentNode.parentNode.parentNode.parentNode.children[1].style.backgroundColor = colorLighter(colorLighter(colorInput.value));
-            document.querySelector('.edit_popUp').remove();
-        }   
-    
                 
-        function upPlaylistArrow(that){
-            let element = that.parentNode.parentNode.parentNode.parentNode.parentNode;
-            hideIframes()
             
-            if(element != document.querySelectorAll('.music_element')[0]){
-                    element.parentNode.insertBefore(element, getPreviousSibling(element));
-            }
-        }        
-        
-        function downPlaylistArrow(that){
-            let element = that.parentNode.parentNode.parentNode.parentNode.parentNode;
-            hideIframes()
-            
-            if(element.nextElementSibling.nextElementSibling != null && element.nextElementSibling != null){
-                    element.parentNode.insertBefore(element, element.nextElementSibling.nextElementSibling);
-                }
-        }           
-    
                 
-        function addNewPlaylist(){
-        if(playlist_name.value.trim() != ""){
-               
-               
             
-            let playlistString = `
-
-        <div class="playlist_element">
-            <div class="playlist_div">
-                <div class="playlist_header">
-                    <p class="playlist_name">${playlist_name.value}</p>
-                    <img src="arrowDown.png" class="hide" onclick="hidePlaylist(this)">
-                </div>
-                <div class="playlist_rest">
-                    <div class="add_div">
-                        <input type="button" class="add_btn" value="+" onclick="addAudio(this)">
-                        <input type="text" class="youtube_url" placeholder="YT URL">
-                        <input type="text" class="audio_newElement_name" placeholder="Music Name">
-                        <img src="edit.png" alt="EDIT" class="edit_playlist" onclick="playlistEditPopUp(this)">
-                        <div class="random7">
-                            <img src="arrowUp2.png" alt="arrowUp" class="playlistArrow playlistArrowUp" onclick="upPlaylistArrow(this)">
-                            <img src="arrowDown2.png" alt="arrowDown" class="playlistArrow playlistArrowDown" onclick="downPlaylistArrow(this)">
-                        </div>
-                        <div type="button" class="delete" onclick="deletePlaylistFunc(this)" onmousedown="deleteChange(this)">X</div>
-                    </div>
-                    
-                    <div class="music_elements">                    
-                        
-                        <div class="testing"></div>
-                    </div>
-                </div>
                 
-            </div>
-        </div>
-
-        `;
             
+                
             
+                
             
-            testing2.insertAdjacentHTML('beforeBegin', playlistString)
+                
             
-            
-            
-            
-            playlist_name.value = "";
-            
-            let lastPlaylistElement = document.querySelectorAll('.playlist_element')[document.querySelectorAll('.playlist_element').length - 1];
-            
-            lastPlaylistElement.children[0].children[0].style.backgroundColor = add_color1.value
-            if(returnHexColor(add_color1.value)){
-                lastPlaylistElement.children[0].children[0].style.color = "black";
-            }
-            else{
-                lastPlaylistElement.children[0].children[0].style.color = "white";
-            }
-            
-            
-            lastPlaylistElement.children[0].children[1].children[0].style.backgroundColor = colorLighter(add_color1.value);
-            lastPlaylistElement.children[0].children[1].children[1].style.backgroundColor = colorLighter(colorLighter(add_color1.value));
-            
-            
-            
-            add_color1.value = "#FF7417";
-        }
-        else{
-            playlist_name.style.border = "red solid 2px";
-            setTimeout(function(){
-                playlist_name.style.border = "none";
-            },1500)
-        }
-        
-        }
-        
-        
-    </script>
-
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                </body>
+                
+            </body>
